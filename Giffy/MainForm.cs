@@ -17,6 +17,15 @@ namespace Giffy
         public MainForm()
         {
             InitializeComponent();
+            byte[] bytestream = new byte[5];
+            bytestream[0] = (byte)'a';
+            bytestream[1] = (byte)'b';
+            bytestream[2] = (byte)'c';
+            bytestream[3] = (byte)'d';
+            bytestream[4] = 0;
+
+            Document doc = new Document(bytestream);
+            MessageBox.Show(new String(doc.getHexChars()));
         }
 
         private void btnOpenFile_Click(object sender, EventArgs e)
