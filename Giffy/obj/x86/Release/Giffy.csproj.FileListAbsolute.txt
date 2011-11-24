@@ -1,0 +1,9 @@
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\bin\Release\Giffy.exe
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\bin\Release\Giffy.pdb
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\Giffy.MainForm.resources
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\Giffy.Properties.Resources.resources
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\Giffy.exe
+C:\Users\mhoyle\AppData\Local\Temporary Projects\Giffy\obj\x86\Release\Giffy.pdb
